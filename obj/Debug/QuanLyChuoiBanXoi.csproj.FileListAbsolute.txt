@@ -1,0 +1,644 @@
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.pdb
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\Database1.mdf
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\Database1_log.ldf
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoaDon.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_KhachHang.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhanVien.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeHoaDon.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoi\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeDoanhThu.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\Database1.mdf
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\Database1_log.ldf
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeDoanhThu.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoaDon.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_KhachHang.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhanVien.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeHoaDon.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoTro.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhapKho.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TonKho.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhaCungCap.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.FrmThemMon.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_DanhMuc.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TinhLuongcs.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.FrmQLNV.resources
+C:\Users\Administrator\Desktop\QuanLyChuoiBanXoi (1)\QuanLyChuoiBanXoi\obj\Debug\QuanLyChuoiBanXoi.UI.FrmHoaDon.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\Database1.mdf
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmHoaDon.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmQLNV.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmThemMon.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_DanhMuc.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoTro.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhaCungCap.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhapKho.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeDoanhThu.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoaDon.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_KhachHang.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhanVien.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeHoaDon.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TinhLuongcs.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TonKho.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmKhachHang.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\Database1.mdf
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\Database1_log.ldf
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmHoaDon.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmKhachHang.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmQLNV.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmThemMon.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_DanhMuc.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoaDon.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoTro.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhaCungCap.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhapKho.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeDoanhThu.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_KhachHang.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhanVien.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeHoaDon.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TinhLuongcs.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TonKho.resources
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Kỹ năng tư duy sáng tạo và quản lý thời gian\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.pdb
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\Database1.mdf
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\Database1_log.ldf
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmHoaDon.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmKhachHang.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmQLNV.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.FrmThemMon.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_DanhMuc.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoaDon.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoTro.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhaCungCap.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhapKho.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeDoanhThu.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_KhachHang.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhanVien.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeHoaDon.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TinhLuongcs.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TonKho.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoi (2)\obj\Debug\QuanLyChuoiBanXoi.pdb
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\Database1.mdf
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\Database1_log.ldf
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\EntityFramework.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\EntityFramework.SqlServer.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\EntityFramework.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\EntityFramework.SqlServer.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.FrmHoaDon.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.FrmKhachHang.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.FrmQLNV.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.FrmThemMon.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_DanhMuc.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoaDon.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoTro.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhaCungCap.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhapKho.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeDoanhThu.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_KhachHang.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhanVien.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_ThongKeHoaDon.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TinhLuongcs.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.UI.uc_TonKho.resources
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Công Nghệ Phần Mềm\QuanLyChuoiBanXoiNew\obj\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\Database1.mdf
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoaDon.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.UI.uc_HoTro.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.UI.uc_KhachHang.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.UI.uc_NhanVien.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDiemBan1.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDiemBan2.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmHoaDon.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmHoTro.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmKhachHang.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmNhanVien.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmThongKe.resources
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\Admin\Downloads\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\Database1.mdf
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\Database1_log.ldf
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDiemBan1.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDiemBan2.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmHoTro.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmKhachHang.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmNhanVien.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmThongKe.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.pdb
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\Database1.mdf
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\Database1_log.ldf
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDiemBan1.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDiemBan2.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmHoTro.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmKhachHang.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmNhanVien.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmThongKe.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\84347\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDanhSach.resources
+C:\Công Nghệ Phần Mềm\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDanhSach.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\Database1.mdf
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\Database1_log.ldf
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.exe.config
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\QuanLyChuoiBanXoi.pdb
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDanhSach.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDangKy.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDangNhap.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDiemBan1.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmDiemBan2.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmGiaoDienChinh.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmHoTro.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmKhachHang.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmNhanVien.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmQuenMatKhau.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.frmThongKe.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.Properties.Resources.resources
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.exe.licenses
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.csproj.CopyComplete
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.exe
+C:\Users\Admin\Downloads\Đồ Án\QuanLyChuoiBanXoiCaBong\obj\Debug\QuanLyChuoiBanXoi.pdb
